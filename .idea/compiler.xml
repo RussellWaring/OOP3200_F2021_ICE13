@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="OOP3200_F2021_ICE12" />
+        <module name="OOP3200_F2021_ICE13" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="OOP3200_F2021_ICE12" target="17" />
+      <module name="OOP3200_F2021_ICE13" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

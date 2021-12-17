@@ -4,19 +4,15 @@
  * @date            December 11, 2021
  * @description     The twelfth in-class exercise, during week 13 of OOP3200. Following along to a 2020 recording.
  */
-package ca.durhamcollege.oop3200_f2021_ice12;
+package ca.durhamcollege.oop3200_f2021_ice13;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.layout.GridPane;
-import javafx.scene.layout.HBox;
-import javafx.scene.layout.VBox;
 import javafx.scene.text.Font;
 import javafx.scene.text.FontWeight;
 import javafx.stage.Stage;

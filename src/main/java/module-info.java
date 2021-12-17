@@ -3,6 +3,6 @@ module ca.durhamcollege.oop3200_f2021_ice12 {
     requires javafx.fxml;
 
 
-    opens ca.durhamcollege.oop3200_f2021_ice12 to javafx.fxml;
-    exports ca.durhamcollege.oop3200_f2021_ice12;
+    opens ca.durhamcollege.oop3200_f2021_ice13 to javafx.fxml;
+    exports ca.durhamcollege.oop3200_f2021_ice13;
 }
